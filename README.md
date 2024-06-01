@@ -7,3 +7,5 @@ existing landscape, retail analytics has led to personalized marketing, dynamic 
 optimization, sentiment analysis, inventory management, recommendation systems, and delivery time
 optimization. This project builds upon these approaches, focusing on specific dataset attributes to drive
 transformative insights for the retail and shopping industry.
+
+Kaggle dataset link: https://www.kaggle.com/datasets/reenapinto/flipkart-best-selling-books
